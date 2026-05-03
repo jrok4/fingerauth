@@ -1,6 +1,6 @@
 <h1>
-  <img src="https://unpkg.com/lucide-static@latest/icons/fingerprint.svg" width="32" align="center" />
-  FingerAuth
+  <img src="https://unpkg.com/lucide-static@latest/icons/fingerprint.svg" width="36" height="36" valign="middle" />
+  &nbsp;FingerAuth
 </h1>
 
 A multi-layer authentication prototype that detects malicious bots and account compromise attempts using IP intelligence, TLS fingerprinting, and client-side fingerprinting combined into a risk-scoring engine.
